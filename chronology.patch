@@ -1,0 +1,28 @@
+--- a/src/data/story.ts
++++ b/src/data/story.ts
+@@ -78,18 +78,18 @@
+     alt: 'Proyektor divara Gülçin və İlqarın görüntüsünü göstərir',
+   },
+   {
++    id: 10,
++    title: 'Beş il sonra',
++    text: 'Beş il keçdi. Zaman köhnə kinolentin izlərini silməsin deyə Rəvan xatirələri yenidən işığa qaytarmaq üçün çalışdı.',
++    image: '/assets/scenes/scene-10.jpg',
++    alt: '5 il sonra yazısı ilə göyərçinli qapı',
++  },
++  {
+     id: 9,
+     title: 'Səssiz qərar',
+     text: 'Film bitdi, amma Rəvan yerindən qalxmadı. Bu gülüşləri, bu baxışları yalnız özü üçün saxlamaq istəmirdi.',
+     image: '/assets/scenes/scene-09.jpg',
+     alt: 'Rəvan kinoteatrda oturub',
+-  },
+-  {
+-    id: 10,
+-    title: 'Beş il sonra',
+-    text: 'Beş il keçdi. Zaman köhnə kinolentin izlərini silməsin deyə Rəvan xatirələri yenidən işığa qaytarmaq üçün çalışdı.',
+-    image: '/assets/scenes/scene-10.jpg',
+-    alt: '5 il sonra yazısı ilə göyərçinli qapı',
+   },
+   {
+     id: 11,
